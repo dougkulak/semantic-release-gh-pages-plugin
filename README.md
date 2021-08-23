@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.com/dougkulak/semantic-release-gh-pages-plugin.svg?branch=master)](https://travis-ci.com/dougkulak/semantic-release-gh-pages-plugin)
 [![Deps](https://img.shields.io/david/dougkulak/semantic-release-gh-pages-plugin?label=deps)](https://david-dm.org/dougkulak/semantic-release-gh-pages-plugin)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/c149b0666dda28813aa4/test_coverage)](https://codeclimate.com/github/dougkulak/semantic-release-gh-pages-plugin/test_coverage)
-[![Maintainability](https://api.codeclimate.com/v1/badges/c149b0666dda28813aa4/maintainability)](https://codeclimate.com/github/dougkulak/semantic-release-gh-pages-plugin/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/1c201297f341ce1f5df8/test_coverage)](https://codeclimate.com/github/dougkulak/semantic-release-gh-pages-plugin/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/1c201297f341ce1f5df8/maintainability)](https://codeclimate.com/github/dougkulak/semantic-release-gh-pages-plugin/maintainability)
 [![CodeStyle](https://img.shields.io/badge/code%20style-eslint--config--dougkulak-brightgreen.svg)](https://github.com/dougkulak/lint-config-dougkulak)
 [![npm (tag)](https://img.shields.io/npm/v/@dougkulak/semantic-release-gh-pages-plugin/latest.svg)](https://www.npmjs.com/package/@dougkulak/semantic-release-gh-pages-plugin)
 
